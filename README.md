@@ -15,9 +15,7 @@
 ---
 
 ## 💡 About Me
-I am a passionate and driven Computer Science and Engineering student with a specialization in *Data Science*.  
-With a strong foundation in programming, data analysis, and problem-solving, I aim to contribute meaningfully to dynamic tech environments while continuously learning and growing.  
-I'm especially interested in real-world applications of **AI, data analytics, and backend systems**.  
+I am a passionate and driven Computer Science and Engineering student with a specialization in *Data Science*.With a strong foundation in programming, data analysis, and problem-solving, I aim to contribute meaningfully to dynamic tech environments while continuously learning and growing.I'm especially interested in real-world applications of **AI, data analytics, and backend systems**.  
 
 ---
 
