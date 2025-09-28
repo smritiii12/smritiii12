@@ -15,12 +15,12 @@
 ---
 
 ## 💡 About Me
-I am a passionate and driven Computer Science and Engineering student with a specialization in *Data Science*.With a strong foundation in programming, data analysis, and problem-solving, I aim to contribute meaningfully to dynamic tech environments while continuously learning and growing.I'm especially interested in real-world applications of **AI, data analytics, and backend systems**.  
+I am a passionate and driven Computer Science and Engineering student with a specialization in *Data Science*. With a strong foundation in programming, data analysis, and problem-solving, I aim to contribute meaningfully to dynamic tech environments while continuously learning and growing. I'm especially interested in real-world applications of **AI, data analytics, and backend systems**.
 
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** C, C++, Python,SQL(Basics)  
+- **Languages:** C, C++, Python, SQL (Basics)  
 - **Libraries/Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV  
 - **Other Tools:** Git, GitHub, Jupyter Notebook, MySQL  
 
@@ -28,31 +28,33 @@ I am a passionate and driven Computer Science and Engineering student with a spe
 
 ## 📂 Projects
 - 🔤 **[Indian Sign Language Recognition](https://github.com/smritiii12/ISL)**  
-  Built a CNN-LSTM model achieving **95% accuracy** in recognizing ISL alphabets. Accepted for presentation at **CVR 2025** (Co-author).
+  Built a CNN-LSTM model achieving **95% accuracy** in recognizing ISL alphabets. Accepted for presentation at **CVR 2025** (Co-author).  
 
 - 🧠 **[MindEase – CLI-Based Mental Wellness Journal](https://github.com/smritiii12/MindEase)**  
-  Developed a C++ journaling tool integrated with **Python sentiment analysis (TextBlob)** and motivational quotes. Includes a GUI prototype with Windows Forms.
+  Developed a C++ journaling tool integrated with **Python sentiment analysis (TextBlob)** and motivational quotes. Includes a GUI prototype with Windows Forms.  
 
 - 📊 **[Supermarket Data Analysis](https://github.com/smritiii12/Supermarket-Data-Analysis)**  
-  Analyzed transaction-level data to uncover sales trends and customer behavior insights, supporting data-driven decision making.
+  Analyzed transaction-level data to uncover sales trends and customer behavior insights, supporting data-driven decision making.  
 
 - 🚕 **[Uber Data Analysis (Summer Bootcamp Project)](https://github.com/smritiii12/Summer-Bootcamp-Project)**  
-  Performed in-depth analysis of Uber ride data across NYC boroughs to identify trends, correlations, and operational insights.
+  Performed in-depth analysis of Uber ride data across NYC boroughs to identify trends, correlations, and operational insights.  
 
 ---
 
 ## 👩‍🏫 Internship
 - **SAP SD Intern – Ayupra Solutions Pvt. Ltd.** *(May 2025 – June 2025)*  
-  Hands-on training in the **SAP Sales & Distribution module**, showcasing adaptability and strong problem-solving skills.
+  Hands-on training in the **SAP Sales & Distribution module**, showcasing adaptability and strong problem-solving skills.  
 
 ---
 
 ## 🏅 Certifications
-- NPTEL – IIT Kharagpur *(Jan 2025 – Apr 2025)*  
-- Data Science Bootcamp – Sharda University *(May 2024 – Jun 2024)*  
-- Java Foundations & Fundamentals – Oracle Academy *(Mar–Nov 2024)*  
-- MySQL Program – Simplilearn *(Jan 2024 – Feb 2024)*  
-- Python Masterclass – Udemy *(Apr–Jun 2023)*  
+- Supervised Machine Learning: Linear Regression – Coursera (Stanford)   *(Aug 2025 – Sep 2025)*  
+- AI For Everyone – Coursera (Andrew Ng)                                *(Aug 2025 – Sep 2025)*  
+- NPTEL – IIT Kharagpur                                                  *(Jan 2025 – Apr 2025)*  
+- Data Science Bootcamp – Sharda University                              *(May 2024 – Jun 2024)*  
+- Java Foundations & Fundamentals – Oracle Academy                       *(Mar 2024 – Nov 2024)*  
+- MySQL Program – Simplilearn                                             *(Jan 2024 – Feb 2024)*  
+- Python Masterclass – Udemy                                             *(Apr 2023 – Jun 2023)*  
 
 ---
 
@@ -81,6 +83,3 @@ I am a passionate and driven Computer Science and Engineering student with a spe
 ---
 
 ✨ Aspiring **Software Developer | Data Science & AI/ML Enthusiast | Backend Developer**  
-
-
-<hr>
